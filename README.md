@@ -4,7 +4,7 @@ For this assignment you will make one static method called `biggestDiff` and tes
 
 ## Specifications
 
-Given a String length 1 or more of just ints, return the difference between the largest and smallest values in the String. You can assume there will be no negatives.
+Given a String length 1 or more of just integers, return the difference between the largest and smallest values in the String. You can assume there will be no negatives.
 
 A few notes: 
 
